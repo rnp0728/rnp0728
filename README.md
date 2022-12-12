@@ -33,8 +33,8 @@
 <p><a href="https://www.buymeacoffee.com/rudra0728"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rudra0728" /></a></p><br>
 <p></p><br><br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rudra0728&show_icons=true&locale=en&layout=compact" alt="rudra0728" /></p> 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rnp0728&show_icons=true&locale=en&layout=compact" alt="rnp0728" /></p> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rudra0728&show_icons=true&locale=en" alt="rudra0728" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rnp0728&show_icons=true&locale=en" alt="rnp0728" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rudra0728&" alt="rudra0728" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rnp0728&" alt="rnp0728" /></p>
