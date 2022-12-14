@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudra0728&label=Profile%20views&color=0e75b6&style=flat" alt="rudra0728" /> </p>
 
-- 🔭 I’m currently working on **Data Manager App**
+- 🔭 I’m currently working on **Task Reminder App**
 
 - 🌱 I’m currently learning **Flutter, Java, DSA**
 
-- 👯 I’m looking to collaborate on **Data Manager App**
+- 👯 I’m looking to collaborate on **Task Reminder App**
 
-- 🤝 I’m looking for help with **Data Manager App**
+- 🤝 I’m looking for help with **Task Reminder App**
 
 - 💬 Ask me about **Flutter Development**
 
