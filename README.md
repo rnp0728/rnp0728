@@ -6,19 +6,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudra0728&label=Profile%20views&color=0e75b6&style=flat" alt="rudra0728" /> </p>
 
-- 🔭 I’m currently working on **Task Reminder App**
+- 🔭 I’m currently working on **Some Personal Projects**
 
 - 🌱 I’m currently learning **Flutter, Java, DSA**
 
-- 👯 I’m looking to collaborate on **Task Reminder App**
+- 👯 I’m looking to collaborate on **building New innovative Apps**
 
-- 🤝 I’m looking for help with **Task Reminder App**
+- 🤝 I’m looking for help with **Some Personal Projects**
 
 - 💬 Ask me about **Flutter Development**
 
 - 📫 How to reach me **rnp0728@gmail.com**
 
-- ⚡ Fun fact **I ❤️ iNfinity.**
+- ⚡ Fun fact **I ❤️ iNFINITY.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
