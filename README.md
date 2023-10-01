@@ -1,54 +1,47 @@
+[![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)](https://github.com/Rudra0728/Rudra0728)
 [![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)](https://github.com/rnp0728/rnp0728)
 <h1 align="center">Hi 👋, I'm Rudra Narayan Panda</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
 
-<img align="right" alt="Programming" width="400" src = "https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
+@@ -20,21 +20,31 @@
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rudra0728&label=Profile%20views&color=0e75b6&style=flat" alt="rudra0728" /> </p>
-# 💫 About Me:
-🔭 I’m currently working as a Junior Software Developer<br><br>🌱 I’m currently learning GoLang<br><br>👯 I’m looking to collaborate on building New innovative Apps<br><br>🤝 I’m looking for help with Some Personal Projects<br><br>💬 Ask me about Cross-Platform App Development<br><br>📫 How to reach me rnp0728@gmail.com<br><br>⚡ Fun fact I ❤️ iNFINITY.
+- ⚡ Fun fact **I ❤️ iNFINITY.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<div align="center">
+
+&nbsp;
+## 💻 Languages Known & Tools Used
+<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/r.n.p_28) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rnp0728) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rnp0728) 
+<h2> 📈 &nbsp;My GitHub History!</h2>
+<a href="https://github.com/thepiyushmalhotra">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rnp0728&theme=noctis_minimus&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnp0728&theme=noctis_minimus&layout=compact" />
+</a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rnp0728&" alt="rnp0728" /></p>
 
-**Languages and Tools:**
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" />
-<img src="https://img.shields.io/badge/lua-%232C2D72.svg?&style=for-the-badge&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/react-%23000000.svg?&style=for-the-badge&logo=firebase&logoColor=white"/>
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=nodejs&logoColor=%23F7DF1E"/>
-<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>
-<img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+<a href="https://www.leetcode.com/rudra0728" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rudra0728" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/rudranaranyis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="rudranaranyis" height="30" width="40" /></a>
 </p>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rnp0728&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rnp0728&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rnp0728&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rnp0728&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rnp0728&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=rnp0728&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/rudra0728) 
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="center">Support:</h3>
+<p align="center"><a href="https://www.buymeacoffee.com/rudra0728"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rnp0728" /></a></p><br><br>
 
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/rudra0728"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rudra0728" /></a></p><br>
+<p></p><br><br>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rnp0728&show_icons=true&locale=en&layout=compact" alt="rnp0728" /></p> 
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rnp0728&show_icons=true&locale=en" alt="rnp0728" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rnp0728&" alt="rnp0728" /></p>
