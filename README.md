@@ -1,4 +1,3 @@
-[![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)](https://github.com/Rudra0728/Rudra0728)
 [![MasterHead](https://miro.medium.com/max/1400/1*vkfI4nFNheC5v0p7wzDtGg.gif)](https://github.com/rnp0728/rnp0728)
 <h1 align="center">Hi 👋, I'm Rudra Narayan Panda</h1>
 <h3 align="center">A passionate Flutter developer from India</h3>
