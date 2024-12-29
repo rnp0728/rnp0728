@@ -1,6 +1,5 @@
 # 💫 About Me:
-👯 I’m looking to collaborate on Flutter / Spring Boot <br>🌱 I’m currently learning Spring Boot & Rust
-
+Software Developer @Sambuq.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rnp.rudranarayanpanda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rnp0728) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rnp0728) 
