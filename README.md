@@ -2,7 +2,7 @@
 # Hi there, I'm Rudra! 👋
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/MariaLetta/free-gophers-pack/master/gophers/11.png" width="150" align="right" />
+<img src="https://github.com/egonelbre/gophers/raw/master/.thumb/vector/adventure/hiking.png" width="150" align="right" />
 Senior Software Engineer from Odisha, India, specializing in building high-performance distributed systems with Go. 
 </p>
 
@@ -20,7 +20,7 @@ type Developer struct {
     Name     string
     Role     string
     Location string
-    Tech     []string
+    Skills     []string
 }
 
 func main() {
@@ -28,9 +28,10 @@ func main() {
         Name:     "Rudra Narayan Panda",
         Role:     "Software Engineer",
         Location: "Odisha, India",
-        Tech: []string{
+        Skills: []string{
             "Golang", "Microservices", "AWS",
-            "Elasticsearch", "Kafka", "Redis"
+            "Elasticsearch", "Kafka", "Redis",
+            "Dart", "Flutter", "MongoDB", "RabbitMQ"
         },
     }
 
