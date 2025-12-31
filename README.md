@@ -1,9 +1,18 @@
+# Hi there, I'm Rudra Narayan Panda! <img src="https://media.giphy.com/media/hvRJCLzdzTCW4/giphy.gif" width="25px">
+
+<p align="left">
+  <img src="https://github.com/egonelbre/gophers/raw/master/.thumb/vector/adventure/hiking.png" width="180" align="right" />
+  <strong>Distributed Systems Engineer | Gopher | Architect</strong><br>
+  Based in Odisha, India 🇮🇳
+</p>
+
+Helping businesses build resilient, high-throughput backend architectures. My focus lies at the intersection of **Go**, **Cloud-Native Infrastructure**, and **Event-Driven Systems**.
 
 # Hi there, I'm Rudra! 👋
 
 <p align="left">
 <img src="https://github.com/egonelbre/gophers/raw/master/.thumb/vector/adventure/hiking.png" width="150" align="right" />
-Senior Software Engineer from Odisha, India, specializing in building high-performance distributed systems with Go. 
+Software Engineer from Odisha, India, specializing in building high-performance distributed systems with Go. 
 </p>
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
