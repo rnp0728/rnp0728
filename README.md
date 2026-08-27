@@ -17,9 +17,10 @@ func main() {
 		Role:     "Software Engineer",
 		Location: "Odisha, India",
 		Skills: []string{
+			"Java", "Spring", "SpringBoot", "Hibernate",
 			"Golang", "Microservices", "AWS",
 			"Elasticsearch", "Kafka", "Redis",
-			"Dart", "Flutter", "MongoDB", "RabbitMQ",
+			"Dart", "Flutter", "MongoDB", "RabbitMQ"
 		},
 	}
 
@@ -28,5 +29,4 @@ func main() {
 }
 
 ```
-<img src="https://cdn.dribbble.com/userupload/29993010/file/original-1c72d566914d606774a9a5b40e4d95df.jpg?resize=2048x1456&vertical=center" width="100%" align="center"/>
 
